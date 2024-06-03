@@ -1,0 +1,54 @@
+#atividade-12
+#include <stdio.h>
+
+
+
+
+int principal() {
+
+float nota1, nota2, nota3, nota4;
+char aluno[100],matrículas;
+int contador,opção=0;
+
+
+
+
+
+
+
+for (contador = 1; contador <= 5; contador++){
+printf("dígito do nome do aluno:\n");
+scanf("%c", &aluno);
+printf("digite as notas do %c aluno (de 0 a 100): \n", aluno);
+scanf("%f",¬a1);
+scanf("%f",¬a2);
+scanf("%f" ,¬a3 );
+scanf("%f" ,¬a4 );
+}
+
+
+
+
+
+retornar (0);
+}
+
+
+nota flutuante =(nota1+nota2+nota3+nota4);
+mídia flutuante =(nota /4);
+
+printf("nota geral dos alunos são:\n",nota1 nota2, nota3, nota4);
+
+
+if (mídia <4) {
+printf("aluno reprovado \n");
+}else if (mídia < 6 && mídia >4 ) {
+printf (alunos aprovados \n);
+}outro {
+pritnf("aluno de recuperação" \n" );
+} */
+
+};
+
+retornar (0));
+}
